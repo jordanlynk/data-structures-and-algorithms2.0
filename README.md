@@ -1,3 +1,3 @@
-# data-structures-and-algorithms2.0
+# Data Structures and Algorithms C# 
 
-- ![Whiteboard Image](./assets/whiteboard-day1.jpg)
+Table of Contents:
